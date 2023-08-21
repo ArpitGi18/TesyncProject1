@@ -7,4 +7,6 @@ public interface AccountDAO {
     public void addaccount(Account account , boolean flag);
 
     public boolean dowork();
+
+    public void testinggithubchanges();
 }
